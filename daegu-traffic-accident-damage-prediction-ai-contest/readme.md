@@ -31,7 +31,7 @@ ranking
 ## :star2: 사용한 방법론, 모델
 📌 FastAI - Densenet
 
-📌 Autogluon
+📌 AutoGluon
 
 <br/><br/>
 
