@@ -32,7 +32,7 @@ ranking
 ## :star2: 사용한 방법론, 모델
 📌 Random Forest
 
-📌 Autogluon
+📌 AutoGluon
 
 <br/><br/>
 
