@@ -17,14 +17,14 @@ ranking
 <br/><br/>
 
 ## :star2: 대회 링크
-www.kaggle.com/competitions/titanic/
+[Titanic - Machine Learning from Disaster](www.kaggle.com/competitions/titanic/)
 
 <br/><br/>
 
 ## :star2: 대회 개요 및 목적
 타이타닉호의 침몰에서 "어떤 종류의 사람들이 생존할 가능성이 더 높은가?"를 밝혀내기 위한 승객 데이터를 활용한 생존자 예측 수행
 
-survival, pclass, sex, age, sibsp, parch, tichet, fare, cabin, embarked의 컬럼 존재
+> survival, pclass, sex, age, sibsp, parch, tichet, fare, cabin, embarked의 컬럼 존재
 
 <br/><br/>
 
