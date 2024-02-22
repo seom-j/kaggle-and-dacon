@@ -18,14 +18,16 @@ ranking
 <br/><br/>
 
 ## :star2: 대회 링크
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
+[House Prices - Advanced Regression Techniques
+](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/)
+
 
 <br/><br/>
 
 ## :star2: 대회 개요 및 목적
 주거용 주택의 (거의) 모든 측면을 설명하는 79개의 설명변수를 사용하여 각 주택의 최종 가격 예측
 
-[Dataset Description](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+> [Dataset Description](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 <br/><br/>
 
