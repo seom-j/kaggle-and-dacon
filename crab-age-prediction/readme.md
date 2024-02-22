@@ -12,7 +12,7 @@ MAE(mean absolute error)
 > 1.3818
 
 ranking 
-> 687/1429
+> 687/1429, 상위 48%
 
 <br/><br/>
 
